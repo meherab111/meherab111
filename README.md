@@ -1,4 +1,7 @@
-![GIF by Técnica Geração](https://github.com/user-attachments/assets/7033cee1-8b5c-4f38-b904-3e86aecf5b50)
+<div align="center">
+  ![GIF by Técnica Geração](https://github.com/user-attachments/assets/7033cee1-8b5c-4f38-b904-3e86aecf5b50)
+</div>
+
 
 # ⚡ About Me
 👋 Hi, I'm Meherab Hassan, a trainee web developer, web designer.<br>🔧 I build responsive, real-world applications with a strong focus on clean code, scalability, and user experience.<br>💭 I love exploring APIs, integrating real-time data and turning ideas into practical web applications.<br>🌊 I'm constantly learning and improving in web development sector.<br>🤝 Thank you for visiting.<br>
