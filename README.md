@@ -20,9 +20,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=meherab111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=meherab111&limit=5&theme=aura&hide_border=true&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=meherab111&icon=8&color=3)](https://visitcount.itsvg.in)
 
