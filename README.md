@@ -1,7 +1,7 @@
 
 <div align="center"> <img src="https://github.com/user-attachments/assets/7033cee1-8b5c-4f38-b904-3e86aecf5b50" /> </div>
 <br>
-<h2 align="center"> I'm Meherab Hassan.<br>A trainee web developer, web designer.⚡</h1>
+<h2 align="center"> I'm Meherab Hassan.⚡<br>A trainee web developer, web designer.</h1>
 <br>
 <br>
 
