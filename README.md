@@ -14,9 +14,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meherab111&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=meherab111&theme=aura&hide_border=true&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=meherab111&theme=aura&hide_border=true)
-
-
+![](https://github-readme-stats.vercel.app/api?username=meherab111&theme=aura&hide_border=true&include_all_commits=true&count_private=true) 
+![](https://nirzak-streak-stats.vercel.app/?user=meherab111&theme=aura&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=meherab111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
