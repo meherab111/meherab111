@@ -21,6 +21,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=meherab111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=meherab111&icon=8&color=3)](https://visitcount.itsvg.in)
 
