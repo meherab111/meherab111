@@ -15,21 +15,13 @@
 <br>
 
 <div align="center">
-  
-## 📊 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=meherab111&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-  
-</div>
-<br>
-<br>
 
-<div align="center">
-  
-## 📈 GitHub Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=meherab111&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=meherab111&theme=aura&hide_border=true&include_all_commits=true&count_private=true) 
 ![](https://nirzak-streak-stats.vercel.app/?user=meherab111&theme=aura&hide_border=true)
-
+  
 </div>
+
 <br>
 <br>
 
