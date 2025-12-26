@@ -16,11 +16,5 @@
 <br>
 <br>
 
-<div align="center">
-  
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=meherab111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
 
 
