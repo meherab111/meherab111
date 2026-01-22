@@ -1,9 +1,9 @@
 
 <div align="center"> <img src="https://github.com/user-attachments/assets/7033cee1-8b5c-4f38-b904-3e86aecf5b50" /> </div>
 <br>
-<h1 align="center"> Hey - I'm Meherab Hassan.<br>
+<h2 align="center"> Hey - I'm Meherab Hassan.<br>
 A Passionate
-Frontend Developer.⚡</h1>
+Frontend Developer.⚡</h2>
 <br>
 <div align="center">
 
